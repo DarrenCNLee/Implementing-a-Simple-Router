@@ -4,6 +4,7 @@ subnets and implementing firewalls for certain subnets. The idea is to simulate 
 You will be using ideas from Lab 1 to help construct the mininet topology, and ideas from Lab 3 to implement
 the rules allowing for traffic to flow through your network. Please refer back to those Labs for guidance on how
 to complete this assignment.
+
 Assignment:
 For this lab, we will be constructing a network for a small company. The company has a 2-floor building, with
 each floor having its own switches and subnets. Additionally, we have a switch and subnet for all the servers in
